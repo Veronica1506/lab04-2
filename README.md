@@ -1,3 +1,3 @@
 # lab04-2
 SOY VERONICA :)
-Text(text = "Hola desde main")
+Text(text = "Hola desde main y rama-conflicto 🚀")
